@@ -20,6 +20,5 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/oworldbankru/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json'
-    csmParametersFileLink: '-projectName NewVM'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
