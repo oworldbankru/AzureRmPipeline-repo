@@ -20,6 +20,5 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/oworldbankru/AzureRmPipeline-repo/main/azuredeploy.json'
-    overrideParameters: '-projectName vishal0700'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
