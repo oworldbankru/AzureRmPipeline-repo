@@ -22,4 +22,3 @@ steps:
     csmFileLink: 'https://raw.githubusercontent.com/oworldbankru/AzureRmPipeline-repo/main/VM/azuredeploy.json'
     csmParametersFileLink: 'https://raw.githubusercontent.com/oworldbankru/AzureRmPipeline-repo/main/VM/azuredeploy.parameters.json'
     deploymentMode: 'Incremental'
-    deploymentName: 'DeployPipelineTemplate'
